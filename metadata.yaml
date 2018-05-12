@@ -1,0 +1,33 @@
+_repo: The-World-s-Great-Sermons-Volume-9--Cuyler-to-Van-Dyke_44450
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44450-h/images/coverpage.jpg
+creator:
+  editor:
+    agent_name: Kleiser, Grenville
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '4071'
+    url: http://www.gutenberg.org/2009/agents/4071
+description: ''
+gutenberg_issued: '2013-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons'
+- !lcc 'BV'
+tableOfContents: 'The value of life / Cuyler -- Let us have peace with God / Broadus
+  -- The mother Church / Wilberforce -- Education and the future of religion / Spalding
+  -- Christ: the question of the centuries / MacArthur -- The age of progress / Carpenter
+  -- Constructive faith / Parkhurst -- Glorification through death / Patton -- The
+  story of a disciple''s faith / Scott Holland -- Temptation / Stalker -- How to become
+  a Christian / Burrell -- Optimism / Watson -- Gethsemane, the rose garden of God
+  / Nicoll -- The meaning of manhood / Van Dyke.'
+title: 'The World''s Great Sermons, Volume 09: Cuyler to Van Dyke'
+url: http://www.gutenberg.org/ebooks/44450
